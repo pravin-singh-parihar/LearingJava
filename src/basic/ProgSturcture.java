@@ -9,7 +9,7 @@ public class ProgSturcture {
     public static void main(String[] args) {
         // it is the main method and it is statrting point of the jvm we can't run the program without a main method
 
-      /*Variable declare*/int a=10;// this part is the is variable decleration
+      /*Variable intilazation*/int a=10;// this part is the is variable decleration
         // it is the varible
     }
 }
